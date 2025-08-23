@@ -1,1 +1,0 @@
-# Its a place to see all Python basic concepts with addition of OOP and libraries
